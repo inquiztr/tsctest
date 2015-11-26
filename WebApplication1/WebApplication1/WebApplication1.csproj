@@ -76,6 +76,7 @@
     </None>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="test.txt" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
